@@ -129,7 +129,7 @@ client.once("ready", () => {
             embeds: [{
                 color: "#8a2be2",
                 title: bot.name,
-                url: `https://discord.com/oauth2/authorize?client_id=${bot.clientID}&permissions=8&scope=bot`,
+                url: bot.clientID ? `https://discord.com/oauth2/authorize?client_id=${bot.clientID}&permissions=8&scope=bot` : bot.url,
                 thumbnail: { url: client.guilds.cache.get(client.config.mainGuild).iconURL() },
                 description: bot.description,
             }]

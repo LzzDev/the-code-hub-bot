@@ -70,6 +70,11 @@
             "name": "Syniks",
             "clientID": "739777124256448534",
             "description": "Syniks is a multi-purpose bot made to level up your community's experience in Discord."
+        },
+        {
+            "name": "The Code Hub",
+            "url": "https://github.com/LzzDev/the-code-hub-bot",
+            "description": "Bot for The Code Hub that handles autoroles and user verification."
         }
     ],
     "tchDiscordServers": [

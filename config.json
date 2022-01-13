@@ -1,0 +1,106 @@
+{
+    "botClientID": "930569988870398043",
+    "botPrefix": "!",
+    
+    "embedColor": "#00dbff",
+    "embedfooterText": "TCH Bot by Lzz#2202",
+    
+    "crossEmoji": ":x:",
+    "tickEmoji": ":white_check_mark:",
+    "verifiedEmoji": ":ballot_box_with_check:",
+    
+    "mainGuild": "930433243747082280",
+    "mainGuildInvite": "https://discord.gg/74sMVkbk6F",
+    
+    "howToVerifyChannel": "930639105501577276",
+    "verifyChannel": "930637154177151046",
+    "verificationFailuresChannel": "930612240330133564",
+    "verificationFailedChannel": "930622577896988723",
+    "rulesChannel": "930522410304819291",
+    "aboutChannel": "930649636144807936",
+    "botCommandsChannel": "930652820712091688",
+    "mediaChannel": "930652625039396875",
+    "suggestionsChannel": "930653833972031488",
+    "staffInformationChannel": "930655039096233994",
+    "websiteProjectsChannel": "930690894422753280",
+    "discordBotProjectsChannel": "930691171527831602",
+    "discordServerProjectsChannel": "930695942791913582",
+
+    "failedVerificationRole": "930612792178921512",
+    "unverifiedRole": "930562957652410438",
+    "memberRole": "930565259868131338",
+
+    "verificationFailuresLockout": 3,
+    
+    "minVerificationCode": 1000,
+    "maxVerificationCode": 9999,
+    
+    "sendSystemMessagesOnReady": {
+        "howToVerify": false,
+        "rules": false,
+        "aboutTCH": false,
+        "botCommands": false,
+        "media": false,
+        "suggestions": false,
+        "staffInformation": false,
+        "websiteProjects": false,
+        "discordBotProjects": false,
+        "discordServerProjects": false
+    },
+
+    "tchWebsites": [
+        {
+            "name": "Syniks.com",
+            "url": "https://syniks.com",
+            "description": "Syniks.com is a website & dashboard made for the Syniks discord bot. Syniks is a multi-purpose bot made to level up your community's experience in Discord."
+        },
+        {
+            "name": "Infamous-Gaming.co.uk",
+            "url": "https://infamous-gaming.co.uk/",
+            "description": "Infamous-Gaming.co.uk is mainly forums made for the Infamous Gaming Garry's Mod game servers, it also serves functionality as a store."
+        },
+        {
+            "name": "Hellstorm-Networks.com",
+            "url": "https://hellstorm-networks.com/",
+            "description": "The all-in-one place for CSGO. We provide self grinded accounts, alt generation and cheats for CSGO. Hassle free and straight to the point purchasing while maintaining tools to keep your play to par."
+        }
+    ],
+    "tchDiscordBots": [
+        {
+            "name": "Syniks",
+            "clientID": "739777124256448534",
+            "description": "Syniks is a multi-purpose bot made to level up your community's experience in Discord."
+        }
+    ],
+    "tchDiscordServers": [
+        {
+            "name": "Infamous Gaming",
+            "invite": "https://discord.gg/4CNTQVgxZZ",
+            "description": "Infamous Gaming Garry's Mod game servers."
+        },
+        {
+            "name": "Syniks",
+            "invite": "https://discord.gg/m6NzbzjTxc",
+            "description": "Support server made for the Syniks discord bot. Syniks is a multi-purpose bot made to level up your community's experience in Discord."
+        },
+        {
+            "name": "Hellstorm Networks",
+            "invite": "https://discord.gg/fBWZcSj46Q",
+            "description": "The all-in-one place for CSGO. We provide self grinded accounts, alt generation and cheats for CSGO. Hassle free and straight to the point purchasing while maintaining tools to keep your play to par."
+        },
+        {
+            "name": "GmodTools",
+            "invite": "https://discord.gg/QAj7FXdwkY",
+            "description": "Gmod Tools is primarily a website that offers Garry's Mod server tools to developers however it also offers rust, minecraft and markdown tools."
+        },
+        {
+            "name": "The Code Hub",
+            "invite": "https://discord.gg/74sMVkbk6F",
+            "description": "The Code Hub is a community server targeted at developers of all levels and backgrounds, we offer a place to hang out with other developers alike, a place to share almost anything including your programming projects and of course code support."
+        }
+    ],
+
+    "autoRoles": [
+        "930562957652410438"
+    ]
+}
